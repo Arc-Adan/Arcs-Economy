@@ -49,7 +49,7 @@ class ArcsEconomy:
 		self.config = Config.get_conf(self, identifier= 31415)
 		def_global = {
 			#presets- Customizable
-			"ColorSet": {'error': 0xff0000, 'ok' = 0x2e5090}
+			"ColorSet": {'error': 0xff0000, 'ok': 0x2e5090}
 			"BetrollMultipliers": {'99': 10, '91': 3, '67': 2}
 			"dropChance": 50
 			"dropAmounts": {'min': 100, 'max': 200}
